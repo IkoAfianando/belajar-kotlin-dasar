@@ -1,4 +1,5 @@
-// create hello world
-fun main(args: Array<String>) {
-    println("Hello, world!")
+fun main() {
+    println("Hello World!")
+    println("Iko Afianando")
+    println("Joko Bodo")
 }
